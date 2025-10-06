@@ -23,12 +23,12 @@ O curso está dividido nos seguintes módulos:
    - Configuração inicial do Git
 
 3. **Comandos Básicos do Git**
-   - `git init`, `git add`, `git commit`, `git status`, `git log`
+   - `git add`, `git commit`, `git status`, `git log`
    - Navegação por versões
 
 4. **Trabalhando com Repositórios Remotos**
    - Criando conta no GitHub
-   - `git remote`, `git push`, `git pull`, `git clone`
+   - `git push`, `git pull`, `git clone`
 
 5. **Branches e Colaboração**
    - Criando e gerenciando branches
